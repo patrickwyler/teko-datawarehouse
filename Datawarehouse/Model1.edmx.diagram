@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e4ac70052b764df0bbf968980d40a6fa" Name="Diagram1">
+        <EntityTypeShape EntityType="dwhModel.Cities" Width="1.5" PointX="3.625" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dwhModel.PointOfSales" Width="1.5" PointX="0.875" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dwhModel.Products" Width="1.5" PointX="3.625" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dwhModel.Sales" Width="1.5" PointX="3.625" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dwhModel.Sellers" Width="1.5" PointX="6.125" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dwhModel.sysdiagrams" Width="1.5" PointX="8.5" PointY="0.625" IsExpanded="true" />
+        <AssociationConnector Association="dwhModel.FK__Sales__city_FK__1A14E395" ManuallyRouted="false" />
+        <AssociationConnector Association="dwhModel.FK__Sales__pos_FK__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="dwhModel.FK__Sales__product_F__1920BF5C" ManuallyRouted="false" />
+        <AssociationConnector Association="dwhModel.FK__Sales__seller_FK__182C9B23" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

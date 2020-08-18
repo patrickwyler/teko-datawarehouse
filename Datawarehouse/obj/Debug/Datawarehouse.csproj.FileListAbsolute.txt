@@ -1,0 +1,67 @@
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/obj/Debug/Datawarehouse.csprojResolveAssemblyReference.cache
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/obj/Debug/Datawarehouse.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/Datawarehouse.exe.config
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/Datawarehouse.exe
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/Datawarehouse.pdb
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/EntityFramework.dll
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/EntityFramework.SqlServer.dll
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/Newtonsoft.Json.dll
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/EntityFramework.xml
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/EntityFramework.SqlServer.xml
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/bin/Debug/Newtonsoft.Json.xml
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/obj/Debug/Datawarehouse.csproj.CopyComplete
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/obj/Debug/Datawarehouse.exe
+//vmware-host/Shared Folders/Visual Studio_DB II/Projekte/source/repos/Datawarehouse_V2.0/DatawarehouseV2.0/obj/Debug/Datawarehouse.pdb
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.csprojResolveAssemblyReference.cache
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.csproj.CoreCompileInputs.cache
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.exe
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.pdb
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/Datawarehouse.exe.config
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/Datawarehouse.exe
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/Datawarehouse.pdb
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.dll
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.SqlServer.dll
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/Newtonsoft.Json.dll
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.xml
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.SqlServer.xml
+/Projects/teko projects/Datawarehouse/DatawarehouseV2.0/bin/Debug/Newtonsoft.Json.xml
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/Datawarehouse.exe.config
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/Datawarehouse.exe
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/Datawarehouse.pdb
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.dll
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.SqlServer.dll
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/Newtonsoft.Json.dll
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.xml
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/EntityFramework.SqlServer.xml
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/bin/Debug/Newtonsoft.Json.xml
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.csprojResolveAssemblyReference.cache
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.csproj.CoreCompileInputs.cache
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.exe
+/Projects/teko/Datawarehouse/DatawarehouseV2.0/obj/Debug/Datawarehouse.pdb
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/Datawarehouse.exe.config
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/Datawarehouse.exe
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/Datawarehouse.pdb
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/EntityFramework.dll
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/EntityFramework.SqlServer.dll
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/Newtonsoft.Json.dll
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/EntityFramework.xml
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/EntityFramework.SqlServer.xml
+/Projects/teko/Datawarehouse/Datawarehouse/bin/Debug/Newtonsoft.Json.xml
+/Projects/teko/Datawarehouse/Datawarehouse/obj/Debug/Datawarehouse.csprojResolveAssemblyReference.cache
+/Projects/teko/Datawarehouse/Datawarehouse/obj/Debug/Datawarehouse.csproj.CoreCompileInputs.cache
+/Projects/teko/Datawarehouse/Datawarehouse/obj/Debug/Datawarehouse.exe
+/Projects/teko/Datawarehouse/Datawarehouse/obj/Debug/Datawarehouse.pdb
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\Datawarehouse.exe.config
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\Datawarehouse.exe
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\Datawarehouse.pdb
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\EntityFramework.dll
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\Newtonsoft.Json.dll
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\EntityFramework.xml
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\bin\Debug\Newtonsoft.Json.xml
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\obj\Debug\Datawarehouse.csprojResolveAssemblyReference.cache
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\obj\Debug\Datawarehouse.csproj.CoreCompileInputs.cache
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\obj\Debug\Datawarehouse.csproj.CopyComplete
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\obj\Debug\Datawarehouse.exe
+Z:\Visual Studio_DB II\Projekte\source\repos\Datawarehouse_V5.0\Datawarehouse\obj\Debug\Datawarehouse.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BC2C9D6A-0B53-47FF-9B4A-2D3566DA470A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datawarehouse/DBAccess.cs">
+    <Files>
+      <File FileName="Datawarehouse/App.Config" Line="8" Column="17" />
+      <File FileName="Datawarehouse/JsonRepresentation.cs" Line="15" Column="2" />
+      <File FileName="Datawarehouse/packages.config" Line="1" Column="1" />
+      <File FileName="Datawarehouse/Program.cs" Line="133" Column="2" />
+      <File FileName="Datawarehouse/Stage.cs" Line="11" Column="29" />
+      <File FileName="Datawarehouse/TaxValues.cs" Line="14" Column="11" />
+      <File FileName="Datawarehouse/Transactions.cs" Line="20" Column="3" />
+      <File FileName="Datawarehouse/DBAccess.cs" Line="123" Column="2" />
+      <File FileName="Datawarehouse/Model1.Context.cs" Line="21" Column="27" />
+      <File FileName="Datawarehouse/Model1.edmx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Debugger.DebugSourceFolders>
+    <String>/Projects/teko/Datawarehouse/Datawarehouse</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Datawarehouse PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
